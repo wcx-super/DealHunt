@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Large local data (3.4GB, exceeds GitHub limits)
+products_vectorstore/
+
+# Private files
+memory.json
+the data in my dataset come from.docx
